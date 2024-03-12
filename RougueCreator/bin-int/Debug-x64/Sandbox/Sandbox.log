@@ -1,0 +1,3 @@
+﻿  Application.cpp
+H:\RougueCreator\Sandbox\src\Application.cpp(7,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Sandbox.vcxproj -> H:\RougueCreator\RougueCreator\bin\Debug-x64\Sandbox\Sandbox.exe
