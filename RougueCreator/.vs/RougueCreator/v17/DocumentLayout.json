@@ -6,12 +6,12 @@
       "AbsoluteMoniker": "D:0:0:{49CF9AF7-CE24-4819-B227-723A604552AC}|..\\Sandbox\\Sandbox.vcxproj|H:\\RougueCreator\\Sandbox\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26D4065C-A5DE-41D8-88F2-6AFFF83D352F}|RougueCreator.vcxproj|H:\\RougueCreator\\RougueCreator\\src\\Test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{26D4065C-A5DE-41D8-88F2-6AFFF83D352F}|RougueCreator.vcxproj|solutionrelative:src\\Test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{26D4065C-A5DE-41D8-88F2-6AFFF83D352F}|RougueCreator.vcxproj|H:\\RougueCreator\\RougueCreator\\src\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{26D4065C-A5DE-41D8-88F2-6AFFF83D352F}|RougueCreator.vcxproj|solutionrelative:src\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D4065C-A5DE-41D8-88F2-6AFFF83D352F}|RougueCreator.vcxproj|H:\\RougueCreator\\RougueCreator\\src\\Test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26D4065C-A5DE-41D8-88F2-6AFFF83D352F}|RougueCreator.vcxproj|solutionrelative:src\\Test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,30 +34,34 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-12T16:40:50.36Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Test.h",
               "DocumentMoniker": "H:\\RougueCreator\\RougueCreator\\src\\Test.h",
               "RelativeDocumentMoniker": "src\\Test.h",
               "ToolTip": "H:\\RougueCreator\\RougueCreator\\src\\Test.h",
               "RelativeToolTip": "src\\Test.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-12T16:34:50.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T16:34:50.708Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Test.cpp",
               "DocumentMoniker": "H:\\RougueCreator\\RougueCreator\\src\\Test.cpp",
               "RelativeDocumentMoniker": "src\\Test.cpp",
               "ToolTip": "H:\\RougueCreator\\RougueCreator\\src\\Test.cpp",
               "RelativeToolTip": "src\\Test.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-12T16:35:04.247Z",
               "EditorCaption": ""
