@@ -1,0 +1,3 @@
+[submodule "RougueCreator/vendor/spdlog"]
+	path = RougueCreator/vendor/spdlog
+	url = https://github.com/gabime/spdlog
